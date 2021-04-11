@@ -9,3 +9,5 @@ a collection of organized 2b2t world downloads
 ## Credits
 ### Overworld
 * 08.17.2020 - jumboman32
+### Nether
+* 05.15.2019
