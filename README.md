@@ -9,8 +9,9 @@ a collection of organized 2b2t world downloads
 - End - 0
 
 ## Credits
-### Overworld
+### Overworld Spawn
 * late.2017 - busterdogtnt (?)
 * 08.17.2020 - jumboman32
-### Nether
+### Nether Spawn
 * 05.15.2019 - TheLampGod
+### End Spawn
