@@ -1,0 +1,20 @@
+#These settings are shared across an entire server.  If multiworld is enabled, they act as the default values for the individual world properties; otherwise, they are used directly.
+#Mon Aug 17 21:42:28 EDT 2020
+Messages.ON_WORLD_LOAD=false
+Messages.SAVING=true
+LinkedWorlds=
+Messages.ERROR=true
+Messages.ON_GUI_CLOSED_WARNING=true
+Messages.LOAD_TILE_ENTITY=false
+LastSaved=1597714948605
+Messages.enableAll=true
+Messages.UPDATES=true
+ServerName=2b2t
+Messages.UPDATE_DEBUG=false
+Messages.REMOVE_ENTITY=false
+Messages.ON_GUI_CLOSED_INFO=true
+Messages.ON_BLOCK_EVENT=true
+Messages.INFO=true
+Messages.ON_MAP_SAVED=false
+Messages.ON_CHUNK_NO_LONGER_NEEDED=false
+Messages.PLUGIN_CHANNEL_MESSAGE=false
