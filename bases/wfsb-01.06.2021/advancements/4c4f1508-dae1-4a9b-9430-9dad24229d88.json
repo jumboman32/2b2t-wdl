@@ -1,0 +1,57 @@
+{
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2021-04-11 22:22:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-04-11 22:22:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-04-11 22:22:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2021-04-11 22:22:23 -0400",
+      "diamond_helmet": "2021-04-11 22:22:23 -0400",
+      "diamond_chestplate": "2021-04-11 22:22:23 -0400",
+      "diamond_boots": "2021-04-11 22:22:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-04-11 22:22:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-04-11 22:22:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-04-11 22:22:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "beaches": "2021-04-11 22:22:36 -0400",
+      "desert_hills": "2021-04-11 22:22:52 -0400",
+      "ocean": "2021-04-11 22:22:44 -0400",
+      "river": "2021-04-11 22:22:28 -0400",
+      "desert": "2021-04-11 22:22:23 -0400"
+    },
+    "done": false
+  }
+}
