@@ -37,3 +37,5 @@ a collection of organized 2b2t world downloads
 
 ### Misc
 * [Eldorado](https://2b2t.miraheze.org/wiki/Eldorado)
+* [Rusher Victorious](https://www.reddit.com/r/2b2t/comments/guo7fp/happy_rusher_day_come_to_41300x_31800z_to_give/)
+* [Valley of Wheat](https://2b2t.miraheze.org/wiki/Valley_of_Wheat)
