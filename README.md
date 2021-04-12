@@ -6,7 +6,7 @@ a collection of organized 2b2t world downloads
 ## Counts
 - Overworld - 2
 - Nether - 1
-- End - 0
+- End - 1
 
 ## Credits
 ### Overworld Spawn
