@@ -22,6 +22,7 @@ a collection of organized 2b2t world downloads
 * [Hopen](https://2b2t.miraheze.org/wiki/Hopen)
 * [M.O.A.K](https://2b2t.miraheze.org/wiki/Krobar01#Numenor)
 * [Mu Megabase](https://2b2t.miraheze.org/wiki/Mu)
+* [Smibville](https://2b2t.miraheze.org/wiki/Smibville)
 * Ventir Zeta - Rezlin, Emperium
 * [Wassrige Holle](https://2b2t.miraheze.org/wiki/Wassrige_Holle)
 * [World Famous Spawn Base](https://2b2t.miraheze.org/wiki/World_Famous_Spawn_Base)
