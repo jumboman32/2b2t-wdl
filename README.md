@@ -20,6 +20,7 @@ a collection of organized 2b2t world downloads
 * Costco - SalC1
 * [Empire's Edge](https://2b2t.miraheze.org/wiki/Empire%27s_Edge)
 * [Fitlantis](https://2b2t.miraheze.org/wiki/Fitlantis)
+* [Gape](https://2b2t.miraheze.org/wiki/Gape_Group)
 * [Hopen](https://2b2t.miraheze.org/wiki/Hopen)
 * [Imperator's Base](https://2b2t.miraheze.org/wiki/Imperator%27s_Base)
 * [M.O.A.K](https://2b2t.miraheze.org/wiki/Krobar01#Numenor)
