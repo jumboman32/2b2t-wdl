@@ -1,0 +1,19 @@
+#These settings are shared across an entire server.  If multiworld is enabled, they act as the default values for the individual world properties; otherwise, they are used directly.
+#Sat Oct 15 20:28:16 EDT 2016
+Messages.enableAll=true
+Messages.REMOVE_ENTITY=false
+Messages.UPDATES=true
+Messages.PLUGIN_CHANNEL_MESSAGE=false
+RandomSeed=
+Messages.INFO=true
+Messages.ON_MAP_SAVED=false
+LinkedWorlds=
+Backup=ZIP
+GameType=creative
+Messages.UPDATE_DEBUG=false
+Messages.LOAD_TILE_ENTITY=false
+ServerName=2b2t.org
+Messages.ON_CHUNK_NO_LONGER_NEEDED=false
+LastSaved=1476577695945
+Messages.SAVING=true
+Messages.ON_WORLD_LOAD=false
