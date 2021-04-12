@@ -1,0 +1,13 @@
+#These settings are shared across an entire server.  If multiworld is enabled, they act as the default values for the individual world properties; otherwise, they are used directly.
+#Sat Jun 24 12:37:47 ICT 2017
+Messages.enableAll=true
+Messages.UPDATES=true
+Messages.PLUGIN_CHANNEL_MESSAGE=false
+Messages.INFO=true
+LinkedWorlds=
+Messages.UPDATE_DEBUG=false
+Messages.LOAD_TILE_ENTITY=false
+ServerName=2b2tmuseum.com
+Messages.ON_WORLD_LOAD=false
+LastSaved=1498282665319
+Messages.SAVING=true
