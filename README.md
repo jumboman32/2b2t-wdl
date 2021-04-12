@@ -24,3 +24,6 @@ a collection of organized 2b2t world downloads
 
 ### Events
 * Nomad Games III
+
+### Misc
+* Eldorado
