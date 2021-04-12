@@ -16,17 +16,18 @@ a collection of organized 2b2t world downloads
 * 05.01.2019
 ### Bases
 * Argonath - SalC1
-* Block Game Mecca
+* [Block Game Mecca](https://2b2t.miraheze.org/wiki/Block_Game_Mecca)
 * Costco - SalC1
-* Empire's Edge
-* Hopen
-* M.O.A.K - Krobar01
-* Mu Megabase - Univercius
-* Ventir Zeta
-* Wassrige Holle
+* [Empire's Edge](https://2b2t.miraheze.org/wiki/Empire%27s_Edge)
+* [Hopen](https://2b2t.miraheze.org/wiki/Hopen)
+* [M.O.A.K](https://2b2t.miraheze.org/wiki/Krobar01#Numenor)
+* [Mu Megabase](https://2b2t.miraheze.org/wiki/Mu)
+* Ventir Zeta - Rezlin, Emperium
+* [Wassrige Holle](https://2b2t.miraheze.org/wiki/Wassrige_Holle)
+* [World Famous Spawn Base](https://2b2t.miraheze.org/wiki/World_Famous_Spawn_Base)
 
 ### Events
-* Nomad Games III
+* [Nomad Games III](https://2b2t.miraheze.org/wiki/The_Lost_Nomads#Lost_Nomad_Games)
 
 ### Misc
-* Eldorado
+* [Eldorado](https://2b2t.miraheze.org/wiki/Eldorado)
