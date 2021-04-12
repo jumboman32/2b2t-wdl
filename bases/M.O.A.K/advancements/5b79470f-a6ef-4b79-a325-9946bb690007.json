@@ -1,0 +1,44 @@
+{
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-08-30 13:09:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2020-08-30 13:09:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-08-30 13:09:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-08-30 13:09:38 -0400",
+      "diamond_helmet": "2020-08-30 13:09:38 -0400",
+      "diamond_chestplate": "2020-08-30 13:09:38 -0400",
+      "diamond_boots": "2020-08-30 13:09:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2020-08-30 13:09:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "beaches": "2020-08-30 13:09:41 -0400",
+      "desert_hills": "2020-08-30 13:09:40 -0400",
+      "ocean": "2020-08-30 13:09:52 -0400",
+      "desert": "2020-08-30 13:09:38 -0400"
+    },
+    "done": false
+  }
+}
