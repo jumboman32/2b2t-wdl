@@ -11,7 +11,7 @@ a collection of organized 2b2t world downloads
 * late.2017
 * 08.17.2020 - jumboman32
 ### Nether Spawn
-* 05.15.2019 - TheLampGod
+* 05.15.2019 - l_amp
 ### End Spawn
 * 05.01.2019
 ### Bases
