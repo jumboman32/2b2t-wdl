@@ -1,0 +1,68 @@
+{
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2019-12-05 23:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2019-12-05 23:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-12-05 23:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2019-12-05 23:09:15 -0500",
+      "diamond_helmet": "2019-12-05 23:09:15 -0500",
+      "diamond_chestplate": "2019-12-05 23:09:15 -0500",
+      "diamond_boots": "2019-12-05 23:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2019-12-05 23:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-12-05 23:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2019-12-05 23:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-12-05 23:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2019-12-05 23:09:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2019-12-05 23:10:10 -0500",
+      "forest_hills": "2019-12-05 23:09:37 -0500",
+      "plains": "2019-12-05 23:09:15 -0500",
+      "taiga": "2019-12-05 23:09:39 -0500"
+    },
+    "done": false
+  }
+}
