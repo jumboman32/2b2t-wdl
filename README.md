@@ -15,6 +15,7 @@ a collection of organized 2b2t world downloads
 ### End Spawn
 * 05.01.2019
 ### Bases
+* [2Close](https://www.reddit.com/r/2b2t/comments/awf2wi/2b2t_the_2close_base_tour/)
 * Argonath - SalC1
 * [Block Game Mecca](https://2b2t.miraheze.org/wiki/Block_Game_Mecca)
 * Costco - SalC1
