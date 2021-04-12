@@ -18,6 +18,8 @@ a collection of organized 2b2t world downloads
 * Argonath - SalC1
 * Block Game Mecca
 * Costco - SalC1
+* Eldorado
+* Empire's Edge
 * Hopen
 * M.O.A.K - Krobar01
 * Mu Megabase - Univercius
