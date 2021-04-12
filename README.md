@@ -23,6 +23,7 @@ a collection of organized 2b2t world downloads
 * [Gape](https://2b2t.miraheze.org/wiki/Gape_Group)
 * [Hopen](https://2b2t.miraheze.org/wiki/Hopen)
 * [Imperator's Base](https://2b2t.miraheze.org/wiki/Imperator%27s_Base)
+* [King's Landing](https://2b2t.miraheze.org/wiki/King%27s_Landing)
 * [M.O.A.K](https://2b2t.miraheze.org/wiki/Krobar01#Numenor)
 * [Mu Megabase](https://2b2t.miraheze.org/wiki/Mu)
 * [Smibville](https://2b2t.miraheze.org/wiki/Smibville)
