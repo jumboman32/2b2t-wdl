@@ -1,0 +1,11 @@
+#These settings are shared across an entire server.  If multiworld is enabled, they act as the default values for the individual world properties; otherwise, they are used directly.
+#Sun Apr 11 20:34:59 EDT 2021
+Messages.enableAll=true
+Messages.INFO=true
+LinkedWorlds=
+Messages.LOAD_TILE_ENTITY=false
+ServerName=Spawn Mason Archive
+LastSaved=1618187699900
+Messages.ON_WORLD_LOAD=false
+Messages.ON_CHUNK_NO_LONGER_NEEDED=false
+Messages.SAVING=true
