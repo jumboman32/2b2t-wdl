@@ -34,6 +34,7 @@ a collection of organized 2b2t world downloads
 
 ### Events
 * [Nomad Games III](https://2b2t.miraheze.org/wiki/The_Lost_Nomads#Lost_Nomad_Games)
+* Fighter's Mapart Meetup - DarkXL6
 
 ### Misc
 * [Eldorado](https://2b2t.miraheze.org/wiki/Eldorado)
