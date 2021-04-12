@@ -23,6 +23,7 @@ a collection of organized 2b2t world downloads
 * Hopen
 * M.O.A.K - Krobar01
 * Mu Megabase - Univercius
+* Wassrige Holle
 
 ### Events
 * Nomad Games III
