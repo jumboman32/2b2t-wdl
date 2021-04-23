@@ -8,9 +8,11 @@ a collection of organized 2b2t world downloads
 
 ## Credits
 ### Overworld Spawn
-* late.2017
+* 09.2013 - xcc2
+* 11.2017
 * 08.17.2020 - jumboman32
 ### Nether Spawn
+* 02.28.2019
 * 05.15.2019 - l_amp
 ### End Spawn
 * 05.01.2019
@@ -27,10 +29,11 @@ a collection of organized 2b2t world downloads
 * [King's Landing](https://2b2t.miraheze.org/wiki/King%27s_Landing)
 * [M.O.A.K](https://2b2t.miraheze.org/wiki/Krobar01#Numenor)
 * [Mu Megabase](https://2b2t.miraheze.org/wiki/Mu)
+* [NFE](https://2b2t.miraheze.org/wiki/Negative_Fourhundred_Eighthundred)
 * [Smibville](https://2b2t.miraheze.org/wiki/Smibville)
 * Ventir Zeta - Rezlin, Emperium
 * [Wassrige Holle](https://2b2t.miraheze.org/wiki/Wassrige_Holle)
-* [World Famous Spawn Base](https://2b2t.miraheze.org/wiki/World_Famous_Spawn_Base)
+* [World Famous Spawn Base](https://2b2t.miraheze.org/wiki/World_Famous_Spawn_Base) (Ruins) - jumboman32
 
 ### Events
 * [Nomad Games III](https://2b2t.miraheze.org/wiki/The_Lost_Nomads#Lost_Nomad_Games)
@@ -40,6 +43,7 @@ a collection of organized 2b2t world downloads
 * [Eldorado](https://2b2t.miraheze.org/wiki/Eldorado)
 * [Rusher Victorious](https://www.reddit.com/r/2b2t/comments/guo7fp/happy_rusher_day_come_to_41300x_31800z_to_give/)
 * [Valley of Wheat](https://2b2t.miraheze.org/wiki/Valley_of_Wheat)
+* -X +Z World Border OW
 
 ### Clone Servers
 EndCrystal.me 04.21 Temp Map - jumboman32
