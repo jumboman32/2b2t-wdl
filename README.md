@@ -39,11 +39,14 @@ a collection of organized 2b2t world downloads
 * [Nomad Games III](https://2b2t.miraheze.org/wiki/The_Lost_Nomads#Lost_Nomad_Games)
 * Fighter's Mapart Meetup - DarkXL6
 
+### Highways
+* -30m +30m WB OW - jumboman32
+* -30 +20m Monument - jumboman32
+
 ### Misc
 * [Eldorado](https://2b2t.miraheze.org/wiki/Eldorado)
 * [Rusher Victorious](https://www.reddit.com/r/2b2t/comments/guo7fp/happy_rusher_day_come_to_41300x_31800z_to_give/)
 * [Valley of Wheat](https://2b2t.miraheze.org/wiki/Valley_of_Wheat)
-* -X +Z World Border OW
 
 ### Clone Servers
 EndCrystal.me 04.21 Temp Map - jumboman32

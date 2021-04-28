@@ -1,0 +1,11 @@
+#These settings are shared across an entire server.  If multiworld is enabled, they act as the default values for the individual world properties; otherwise, they are used directly.
+#Tue Apr 27 10:53:04 EDT 2021
+Messages.enableAll=true
+Messages.REMOVE_ENTITY=false
+Messages.INFO=true
+LinkedWorlds=
+Messages.ON_GUI_CLOSED_INFO=true
+ServerName=ttRMS
+LastSaved=1619535184623
+Messages.ON_WORLD_LOAD=false
+Messages.SAVING=true
