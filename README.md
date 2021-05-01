@@ -4,7 +4,6 @@ a collection of organized 2b2t world downloads
 ![GitHub contributors](https://img.shields.io/github/contributors/jumboman32/2b2t-wdl)
 ![GitHub Repo stars](https://img.shields.io/github/stars/jumboman32/2b2t-wdl)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jumboman32/2b2t-wdl)
-![GitHub repo size](https://img.shields.io/github/repo-size/jumboman32/2b2t-wdl)
 ![swag](https://img.shields.io/badge/swag-ofcourse-blue)
 
 ## Credits
