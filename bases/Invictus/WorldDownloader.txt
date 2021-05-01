@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Thu Sep 07 19:52:29 EDT 2017
+WorldName=Invictus
+LastSaved=1504828349001

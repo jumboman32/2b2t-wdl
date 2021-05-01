@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Wed Feb 21 11:41:38 EST 2018
+WorldName=Fit Castle
+LastSaved=1519231298446

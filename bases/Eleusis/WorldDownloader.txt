@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Fri Dec 15 02:50:11 EST 2017
+WorldName=Eleusis
+LastSaved=1513324206534

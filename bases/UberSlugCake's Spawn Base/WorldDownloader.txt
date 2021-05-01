@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Tue Feb 06 19:15:24 EST 2018
+WorldName=UberSlugCake Spawn Base
+LastSaved=1517962524774
