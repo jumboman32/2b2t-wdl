@@ -21,16 +21,20 @@ a collection of organized 2b2t world downloads
 * Argonath - SalC1
 * [Block Game Mecca](https://2b2t.miraheze.org/wiki/Block_Game_Mecca)
 * Costco - SalC1
+* Eleusis - BarrenDome
 * [Empire's Edge](https://2b2t.miraheze.org/wiki/Empire%27s_Edge)
 * [Fitlantis](https://2b2t.miraheze.org/wiki/Fitlantis)
+* Fit's Castle - BarrenDome
 * [Gape](https://2b2t.miraheze.org/wiki/Gape_Group)
 * [Hopen](https://2b2t.miraheze.org/wiki/Hopen)
 * [Imperator's Base](https://2b2t.miraheze.org/wiki/Imperator%27s_Base)
+* Invictus - BarrenDome
 * [King's Landing](https://2b2t.miraheze.org/wiki/King%27s_Landing)
 * [M.O.A.K](https://2b2t.miraheze.org/wiki/Krobar01#Numenor)
 * [Mu Megabase](https://2b2t.miraheze.org/wiki/Mu)
 * [NFE](https://2b2t.miraheze.org/wiki/Negative_Fourhundred_Eighthundred)
 * [Smibville](https://2b2t.miraheze.org/wiki/Smibville)
+* UberSlugCake's Spawn Base - BarrenDome
 * Ventir Zeta - Rezlin, Emperium
 * [Wassrige Holle](https://2b2t.miraheze.org/wiki/Wassrige_Holle)
 * [World Famous Spawn Base](https://2b2t.miraheze.org/wiki/World_Famous_Spawn_Base) (Ruins) - jumboman32
